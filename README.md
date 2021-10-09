@@ -1,0 +1,1 @@
+# m2-responsive-theme
